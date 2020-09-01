@@ -110,9 +110,9 @@ int main(){
     /*
     RESULT:
     The solution are:
-       x = -1.59459
-       y = 0.837838
-       z = 1.81081
+       x = -2
+       y = -2
+       z = 1
     */
 
     return 0;
